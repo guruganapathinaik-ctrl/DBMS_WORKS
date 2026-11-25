@@ -1,9 +1,19 @@
 # Presentation Directory (`presentation/`)
 
-## Status of the Gamma Executive Presentation
+## Final Gamma Executive Presentation
 
-The designated final presentation for this project is the **Gamma-generated PowerPoint deck** (`DBMS_END.pptx`, previously present in this folder at `1,224,915` bytes).
+The final submission presentation for this project is the **Gamma-generated PowerPoint deck**:
 
-- **Current Status:** `DBMS_END.pptx` is **not currently present** inside `presentation/` at the time of final audit and packaging.
-- **Policy:** Per project instructions, the Gamma presentation is **not** recreated, edited, or replaced by an automatically generated `.pptx` (`Mobile_Game_Analytics_Executive_Readout.pptx` is excluded from GitHub and the submission ZIP).
-- **Manual Step Required:** Copy the original Gamma-generated `DBMS_END.pptx` into `presentation/` (and attach or re-bundle it if required by the course portal) prior to final academic submission.
+- **File:** `DBMS_END.pptx` (`1,301,941` bytes, 8 slides)
+- **Title:** *Mobile Game Analytics — From Player Behaviour to Predictive Intelligence*
+- **Source:** Created externally in Gamma and placed directly in `presentation/` without automated regeneration or modification.
+- **Deck Coverage:**
+  1. Title & Project Overview (Deliverables 1–4)
+  2. Executive Summary — Four Critical Discoveries
+  3. Deliverable 1 — Player Activity, Revenue, and Retention
+  4. Deliverable 2 — Why ARPDAU Fell While Revenue Grew (Kitagawa Decomposition & Simpson's Paradox)
+  5. Deliverable 3 — Acquisition Channel Comparison: Raw vs. Adjusted
+  6. Deliverable 4 — Churn Prediction Model: Performance and Targeting
+  7. From Predictions to Business Decisions (A/B Testing & Analytical Boundaries)
+  8. Recommended Action Plan
+- **Excluded Drafts:** `Mobile_Game_Analytics_Executive_Readout.pptx` and `Mobile-Game-Analytics.pptx` are removed and excluded from GitHub and `DBMS_END_SEM_SUBMISSION.zip`.
