@@ -1,19 +1,41 @@
-# Presentation Directory (`presentation/`)
+# Project Presentation
 
-## Final Gamma Executive Presentation
+## DBMS Lab – End-Semester Project
 
-The final submission presentation for this project is the **Gamma-generated PowerPoint deck**:
+### Mobile Game Analytics: From Player Behaviour to Predictive Intelligence
 
-- **File:** `DBMS_END.pptx` (`1,301,941` bytes, 8 slides)
-- **Title:** *Mobile Game Analytics — From Player Behaviour to Predictive Intelligence*
-- **Source:** Created externally in Gamma and placed directly in `presentation/` without automated regeneration or modification.
-- **Deck Coverage:**
-  1. Title & Project Overview (Deliverables 1–4)
-  2. Executive Summary — Four Critical Discoveries
-  3. Deliverable 1 — Player Activity, Revenue, and Retention
-  4. Deliverable 2 — Why ARPDAU Fell While Revenue Grew (Kitagawa Decomposition & Simpson's Paradox)
-  5. Deliverable 3 — Acquisition Channel Comparison: Raw vs. Adjusted
-  6. Deliverable 4 — Churn Prediction Model: Performance and Targeting
-  7. From Predictions to Business Decisions (A/B Testing & Analytical Boundaries)
-  8. Recommended Action Plan
-- **Excluded Drafts:** `Mobile_Game_Analytics_Executive_Readout.pptx` and `Mobile-Game-Analytics.pptx` are removed and excluded from GitHub and `DBMS_END_SEM_SUBMISSION.zip`.
+This presentation summarizes the complete analytics project, covering player behaviour, monetisation, retention, acquisition channels, and churn prediction.
+
+## Overview
+
+The presentation brings together the findings from all four project deliverables, explaining the analytical approach, key insights, model performance, and actionable business recommendations.
+
+## Contents
+
+| No. | Topic |
+|:---:|---|
+| 1 | Project Overview |
+| 2 | Executive Summary |
+| 3 | Player Activity, Revenue and Retention Analysis |
+| 4 | ARPDAU Deep Dive and Revenue Decomposition |
+| 5 | Acquisition Channel Analysis |
+| 6 | Churn Prediction and Model Evaluation |
+| 7 | Player Targeting and Retention Strategy |
+| 8 | Recommendations and Conclusion |
+
+## Key Areas
+
+- Player engagement and behavioural patterns
+- Revenue trends and monetisation performance
+- Retention and acquisition channel effectiveness
+- ARPDAU analysis and player-segment contribution
+- Predictive modelling for player churn
+- Data-driven targeting and business recommendations
+
+## Presentation File
+
+**[View Project Presentation – DBMS_END.pptx](./DBMS_END.pptx)**
+
+---
+
+*DBMS Lab End-Semester Project | NIT Warangal*
