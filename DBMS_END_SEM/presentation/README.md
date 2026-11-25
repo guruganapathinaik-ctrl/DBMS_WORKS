@@ -1,6 +1,6 @@
 # Project Presentation
 
-## DBMS Lab – End-Semester Project
+## DBMS End-Semester Assignemnt
 
 ### Mobile Game Analytics: From Player Behaviour to Predictive Intelligence
 
