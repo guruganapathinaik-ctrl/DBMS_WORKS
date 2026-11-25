@@ -1,0 +1,30 @@
+section,metric,count_val,gross_usd,gross_share_pct,net_usd,net_share_pct,mean_days,p25_days,median_days,p75_days
+1_concentration_payers_only_raw,Top 1% of paying players (n=111 / 11054),111,20604.37,9.39,20407.45,9.44,,,,
+1_concentration_payers_only_raw,Top 10% of paying players (n=1106 / 11054),1106,104872.15,47.79,103930.74,48.08,,,,
+1_concentration_payers_only_raw,Top 50% of paying players (n=5527 / 11054),5527,197401.7,89.96,195035.65,90.23,,,,
+2_concentration_all_players_raw,Top 1% of all players (n=803 / 80295),803,88076.44,40.14,87340.6,40.41,,,,
+2_concentration_all_players_raw,Top 10% of all players (n=8030 / 80295),8030,212114.57,96.66,209411.59,96.88,,,,
+2_concentration_all_players_raw,Top 50% of all players (n=40148 / 80295),40148,219434.02,100.0,216184.28,100.01,,,,
+3_concentration_payers_only_dedup,Top 1% of payers dedup (n=111 / 11054),111,20060.23,9.22,19856.35,9.26,,,,
+3_concentration_payers_only_dedup,Top 10% of payers dedup (n=1106 / 11054),1106,103666.51,47.64,102725.1,47.93,,,,
+3_concentration_payers_only_dedup,Top 50% of payers dedup (n=5527 / 11054),5527,195695.53,89.94,193329.48,90.2,,,,
+4_time_to_first_purchase_all,61+ days,3049,,3.8,,27.58,147.75,85.0,132.0,201.0
+4_time_to_first_purchase_all,Day 0 (install day),638,,0.79,,5.77,0.0,0.0,0.0,0.0
+4_time_to_first_purchase_all,Days 1-3,1198,,1.49,,10.84,1.89,1.0,2.0,3.0
+4_time_to_first_purchase_all,Days 15-30,1842,,2.29,,16.66,21.63,18.0,21.0,25.0
+4_time_to_first_purchase_all,Days 31-60,1669,,2.08,,15.1,43.72,36.0,43.0,51.0
+4_time_to_first_purchase_all,Days 4-7,1211,,1.51,,10.96,5.38,4.0,5.0,6.0
+4_time_to_first_purchase_all,Days 8-14,1337,,1.67,,12.1,10.87,9.0,11.0,13.0
+4_time_to_first_purchase_all,Never purchased,69241,,86.23,,,,,,
+4_time_to_first_purchase_all,Pre-install anomaly (<0d),110,,0.14,,1.0,-2.01,-3.0,-2.0,-1.0
+5_time_to_first_purchase_2026_installs,61+ days,719,,1.12,,8.58,78.35,66.0,76.0,88.0
+5_time_to_first_purchase_2026_installs,Day 0 (install day),638,,0.99,,7.61,0.0,0.0,0.0,0.0
+5_time_to_first_purchase_2026_installs,Days 1-3,1195,,1.86,,14.26,1.89,1.0,2.0,3.0
+5_time_to_first_purchase_2026_installs,Days 15-30,1754,,2.73,,20.93,21.56,18.0,21.0,25.0
+5_time_to_first_purchase_2026_installs,Days 31-60,1451,,2.26,,17.32,43.29,36.0,42.0,50.0
+5_time_to_first_purchase_2026_installs,Days 4-7,1200,,1.87,,14.32,5.38,4.0,5.0,6.0
+5_time_to_first_purchase_2026_installs,Days 8-14,1312,,2.04,,15.66,10.87,9.0,11.0,13.0
+5_time_to_first_purchase_2026_installs,Never purchased,55916,,86.97,,,,,,
+5_time_to_first_purchase_2026_installs,Pre-install anomaly (<0d),110,,0.17,,1.31,-2.01,-3.0,-2.0,-1.0
+6_repeat_purchase_gap_raw,"Consecutive positive purchases (raw, repeat_buyers=2539)",4144,,,,,22.05,5.73,14.98,32.02
+7_repeat_purchase_gap_dedup,"Consecutive positive purchases (dedup, repeat_buyers=2476)",4024,,,,,22.71,6.37,15.26,32.82

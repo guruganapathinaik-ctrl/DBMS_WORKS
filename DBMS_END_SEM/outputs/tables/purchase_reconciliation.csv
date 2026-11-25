@@ -1,0 +1,11 @@
+category,metric,row_count,distinct_purchase_ids,distinct_devices,usd_amount,pct_of_gross_positive
+1_all_transactions_raw,Gross positive purchases (usd_amount > 0),15198,15078,11054,219434.02,100.0
+1_all_transactions_raw,Negative purchases / potential refunds (usd_amount < 0),228,226,224,-3274.72,-1.4923
+1_all_transactions_raw,Net revenue (raw: gross + refunds),15426,15304,11054,216159.3,98.5077
+2_duplicate_purchase_ids,Excess duplicate purchase_id rows (positive),120,120,120,1840.8,0.8389
+2_duplicate_purchase_ids,Excess duplicate purchase_id rows (negative),2,2,2,-24.98,-0.0114
+2_duplicate_purchase_ids,Gross positive revenue (if deduplicated by purchase_id),15078,15078,11054,217593.22,99.1611
+2_duplicate_purchase_ids,Net revenue (if deduplicated by purchase_id),15304,15304,11054,214343.48,97.6802
+3_player_day_join_coverage,"Purchases WITH matching (device_id, activity_date) in player_day (net)",12763,12673,9620,182567.27,83.1992
+3_player_day_join_coverage,"Purchases WITHOUT matching (device_id, activity_date) in player_day (net)",2663,2631,2422,33592.03,15.3085
+4_pre_install_date_flag,Purchases dated BEFORE player_profile.install_date (net),114,111,110,1652.86,0.7532

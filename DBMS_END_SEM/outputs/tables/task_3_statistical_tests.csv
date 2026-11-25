@@ -1,0 +1,43 @@
+comparison_type,metric,metric_label,pair,mean_a,mean_b,diff,ci_95_low,ci_95_high,rel_diff_pct,cohens_d,primary_p_raw,welch_p,mwu_p,two_prop_z_p,primary_p_holm,sig_holm_0_05,ci_excludes_zero
+unadjusted,active_days_30d,Active Days (First 30d),organic - paid_social,7.074065,6.862479,0.211586,0.138459,0.285497,3.08,0.0715,2.262497845661957e-08,2e-08,1.12e-06,,5e-08,True,True
+unadjusted,active_days_30d,Active Days (First 30d),organic - paid_video,7.074065,6.823561,0.250504,0.179232,0.321107,3.67,0.0851,7.241508239070702e-12,0.0,0.0,,0.0,True,True
+unadjusted,active_days_30d,Active Days (First 30d),paid_social - paid_video,6.862479,6.823561,0.038918,-0.033762,0.112437,0.57,0.0134,0.2935235798551156,0.29352358,0.25049437,,0.29352358,False,False
+tier_platform_adjusted,active_days_30d,Active Days (First 30d),organic - paid_social,7.079049,6.864795,0.214253,0.135172,0.29615,3.12,,2.9e-07,,,0.0,5.7e-07,True,True
+tier_platform_adjusted,active_days_30d,Active Days (First 30d),organic - paid_video,7.079049,6.774073,0.304976,0.225632,0.390072,4.5,,0.0,,,0.0,0.0,True,True
+tier_platform_adjusted,active_days_30d,Active Days (First 30d),paid_social - paid_video,6.864795,6.774073,0.090723,0.006268,0.174719,1.34,,0.0365792,,,0.0365,0.0365792,True,True
+unadjusted,ret_d7,Day 7 Retention Rate,organic - paid_social,0.263902,0.255842,0.00806,-0.002811,0.019355,3.15,0.0184,0.15153713251793896,0.15130786,0.15154584,0.15153713,0.15153713,False,False
+unadjusted,ret_d7,Day 7 Retention Rate,organic - paid_video,0.263902,0.245587,0.018315,0.007751,0.02878,7.46,0.042,0.0007052997118889314,0.00070541,0.00070547,0.0007053,0.0021159,True,True
+unadjusted,ret_d7,Day 7 Retention Rate,paid_social - paid_video,0.255842,0.245587,0.010255,-0.000482,0.02074,4.18,0.0237,0.06423884956013891,0.06446814,0.06424445,0.06423885,0.1284777,False,False
+tier_platform_adjusted,ret_d7,Day 7 Retention Rate,organic - paid_social,0.258594,0.253357,0.005238,-0.006544,0.017033,2.07,,0.38367654,,,0.3795,0.41597588,False,False
+tier_platform_adjusted,ret_d7,Day 7 Retention Rate,organic - paid_video,0.258594,0.245197,0.013397,0.001879,0.025712,5.46,,0.02737349,,,0.025,0.08212046,False,True
+tier_platform_adjusted,ret_d7,Day 7 Retention Rate,paid_social - paid_video,0.253357,0.245197,0.008159,-0.004308,0.020568,3.33,,0.20798794,,,0.211,0.41597588,False,False
+unadjusted,ret_d30,Day 30 Retention Rate,organic - paid_social,0.137473,0.144297,-0.006824,-0.015666,0.001392,-4.73,-0.0196,0.1255170979478619,0.1259778,0.1255252,0.1255171,0.2510342,False,False
+unadjusted,ret_d30,Day 30 Retention Rate,organic - paid_video,0.137473,0.135303,0.00217,-0.006024,0.010573,1.6,0.0063,0.610395419547723,0.61041926,0.61040327,0.61039542,0.61039542,False,False
+unadjusted,ret_d30,Day 30 Retention Rate,paid_social - paid_video,0.144297,0.135303,0.008994,0.000176,0.017564,6.65,0.026,0.04243734398315677,0.04278494,0.04244171,0.04243734,0.12731203,False,True
+tier_platform_adjusted,ret_d30,Day 30 Retention Rate,organic - paid_social,0.137155,0.144173,-0.007018,-0.016143,0.00248,-4.87,,0.14545029,,,0.1485,0.43635086,False,False
+tier_platform_adjusted,ret_d30,Day 30 Retention Rate,organic - paid_video,0.137155,0.13815,-0.000995,-0.010831,0.00879,-0.72,,0.84492727,,,0.8175,0.84492727,False,False
+tier_platform_adjusted,ret_d30,Day 30 Retention Rate,paid_social - paid_video,0.144173,0.13815,0.006023,-0.004413,0.015906,4.36,,0.24132671,,,0.244,0.48265342,False,False
+unadjusted,play_30d,Playtime Mins (First 30d),organic - paid_social,147.9962,137.391469,10.604731,7.967321,13.139906,7.72,0.1023,1.0052792401873322e-15,0.0,0.0,,0.0,True,True
+unadjusted,play_30d,Playtime Mins (First 30d),organic - paid_video,147.9962,135.150046,12.846154,10.356496,15.431903,9.51,0.1244,1.37663106966953e-23,0.0,0.0,,0.0,True,True
+unadjusted,play_30d,Playtime Mins (First 30d),paid_social - paid_video,137.391469,135.150046,2.241423,-0.183706,4.785333,1.66,0.0229,0.07322765366341356,0.07322765,0.02948609,,0.07322765,False,False
+tier_platform_adjusted,play_30d,Playtime Mins (First 30d),organic - paid_social,147.902938,137.615138,10.2878,7.462506,13.255739,7.48,,0.0,,,0.0,0.0,True,True
+tier_platform_adjusted,play_30d,Playtime Mins (First 30d),organic - paid_video,147.902938,133.944016,13.958923,11.042512,16.939271,10.42,,0.0,,,0.0,0.0,True,True
+tier_platform_adjusted,play_30d,Playtime Mins (First 30d),paid_social - paid_video,137.615138,133.944016,3.671122,0.855917,6.473825,2.74,,0.01078423,,,0.015,0.01078423,True,True
+unadjusted,is_payer_30d,30-Day Payer Conversion,organic - paid_social,0.133071,0.131526,0.001544,-0.006777,0.010359,1.17,0.0046,0.7220145845075956,0.72195052,0.72202119,0.72201458,0.72201458,False,False
+unadjusted,is_payer_30d,30-Day Payer Conversion,organic - paid_video,0.133071,0.088565,0.044506,0.03695,0.052119,50.25,0.1422,2.9950333992263563e-30,0.0,0.0,0.0,0.0,True,True
+unadjusted,is_payer_30d,30-Day Payer Conversion,paid_social - paid_video,0.131526,0.088565,0.042962,0.035022,0.050712,48.51,0.1383,3.852527033789358e-27,0.0,0.0,0.0,0.0,True,True
+tier_platform_adjusted,is_payer_30d,30-Day Payer Conversion,organic - paid_social,0.119747,0.117847,0.001899,-0.006285,0.010283,1.61,,0.65142126,,,0.6465,0.65142126,False,False
+tier_platform_adjusted,is_payer_30d,30-Day Payer Conversion,organic - paid_video,0.119747,0.112588,0.007159,-0.001773,0.015994,6.36,,0.12016763,,,0.128,0.3605029,False,False
+tier_platform_adjusted,is_payer_30d,30-Day Payer Conversion,paid_social - paid_video,0.117847,0.112588,0.00526,-0.004032,0.01459,4.67,,0.26565299,,,0.2815,0.53130599,False,False
+unadjusted,gross_30d,30-Day Gross ARPU ($),organic - paid_social,2.497024,2.245516,0.251508,-0.032973,0.534869,11.2,0.0223,0.08060464924716287,0.08060465,0.64690968,,0.08060465,False,False
+unadjusted,gross_30d,30-Day Gross ARPU ($),organic - paid_video,2.497024,1.547005,0.95002,0.686616,1.20569,61.41,0.0893,6.473908758192286e-13,0.0,0.0,,0.0,True,True
+unadjusted,gross_30d,30-Day Gross ARPU ($),paid_social - paid_video,2.245516,1.547005,0.698512,0.446544,0.948889,45.15,0.0697,6.499392690549478e-08,6e-08,0.0,,1.3e-07,True,True
+tier_platform_adjusted,gross_30d,30-Day Gross ARPU ($),organic - paid_social,2.174038,1.989127,0.184911,-0.069858,0.428602,9.3,,0.14990624,,,0.156,0.44971873,False,False
+tier_platform_adjusted,gross_30d,30-Day Gross ARPU ($),organic - paid_video,2.174038,2.055835,0.118203,-0.205677,0.431812,5.75,,0.46722457,,,0.488,0.93444913,False,False
+tier_platform_adjusted,gross_30d,30-Day Gross ARPU ($),paid_social - paid_video,1.989127,2.055835,-0.066708,-0.394085,0.253368,-3.24,,0.68597314,,,0.6945,0.93444913,False,False
+unadjusted,net_30d,30-Day Net ARPU ($),organic - paid_social,2.444915,2.215908,0.229007,-0.049247,0.508637,10.33,0.0205,0.10743795078856934,0.10743795,0.70239398,,0.10743795,False,False
+unadjusted,net_30d,30-Day Net ARPU ($),organic - paid_video,2.444915,1.532437,0.912478,0.650491,1.168918,59.54,0.0868,2.862879872984301e-12,0.0,0.0,,0.0,True,True
+unadjusted,net_30d,30-Day Net ARPU ($),paid_social - paid_video,2.215908,1.532437,0.683472,0.436281,0.924844,44.6,0.0686,1.067253111552909e-07,1.1e-07,0.0,,2.1e-07,True,True
+tier_platform_adjusted,net_30d,30-Day Net ARPU ($),organic - paid_social,2.129956,1.965643,0.164313,-0.093813,0.41216,8.36,,0.20003885,,,0.186,0.60011655,False,False
+tier_platform_adjusted,net_30d,30-Day Net ARPU ($),organic - paid_video,2.129956,2.035856,0.0941,-0.229298,0.40939,4.62,,0.56344357,,,0.561,1.0,False,False
+tier_platform_adjusted,net_30d,30-Day Net ARPU ($),paid_social - paid_video,1.965643,2.035856,-0.070213,-0.391151,0.246881,-3.45,,0.66821931,,,0.68,1.0,False,False

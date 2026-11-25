@@ -1,0 +1,22 @@
+metric,metric_label,acquisition_channel,unadjusted_mean,tier_platform_adjusted_mean
+active_days_30d,Active Days (First 30d),organic,7.074065,7.079049
+active_days_30d,Active Days (First 30d),paid_social,6.862479,6.864795
+active_days_30d,Active Days (First 30d),paid_video,6.823561,6.774073
+ret_d7,Day 7 Retention Rate,organic,0.263902,0.258594
+ret_d7,Day 7 Retention Rate,paid_social,0.255842,0.253357
+ret_d7,Day 7 Retention Rate,paid_video,0.245587,0.245197
+ret_d30,Day 30 Retention Rate,organic,0.137473,0.137155
+ret_d30,Day 30 Retention Rate,paid_social,0.144297,0.144173
+ret_d30,Day 30 Retention Rate,paid_video,0.135303,0.13815
+play_30d,Playtime Mins (First 30d),organic,147.9962,147.902938
+play_30d,Playtime Mins (First 30d),paid_social,137.391469,137.615138
+play_30d,Playtime Mins (First 30d),paid_video,135.150046,133.944016
+is_payer_30d,30-Day Payer Conversion,organic,0.133071,0.119747
+is_payer_30d,30-Day Payer Conversion,paid_social,0.131526,0.117847
+is_payer_30d,30-Day Payer Conversion,paid_video,0.088565,0.112588
+gross_30d,30-Day Gross ARPU ($),organic,2.497024,2.174038
+gross_30d,30-Day Gross ARPU ($),paid_social,2.245516,1.989127
+gross_30d,30-Day Gross ARPU ($),paid_video,1.547005,2.055835
+net_30d,30-Day Net ARPU ($),organic,2.444915,2.129956
+net_30d,30-Day Net ARPU ($),paid_social,2.215908,1.965643
+net_30d,30-Day Net ARPU ($),paid_video,1.532437,2.035856

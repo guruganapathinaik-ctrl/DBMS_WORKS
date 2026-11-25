@@ -1,0 +1,15 @@
+table_name,check_scope,total_rows,distinct_keys_or_rows,duplicate_groups,excess_duplicate_rows,excess_duplicate_pct
+player_profile,exact_full_row,80295,80295,0,0,0.0
+player_profile,device_id,80295,80295,0,0,0.0
+player_day,exact_full_row,667435,667435,0,0,0.0
+player_day,"device_id, activity_date",667435,667435,0,0,0.0
+purchase,exact_full_row,15426,15426,0,0,0.0
+purchase,purchase_id,15426,15304,122,122,0.7909
+purchase,"device_id, event_ts",15426,15426,0,0,0.0
+purchase,"device_id, event_ts, pack_name, usd_amount",15426,15426,0,0,0.0
+currency_spend,exact_full_row,489892,489892,0,0,0.0
+currency_spend,"device_id, event_ts",489892,489782,110,110,0.0225
+currency_spend,"device_id, event_ts, currency_type, currency_value, spend_category",489892,489892,0,0,0.0
+ad_view,exact_full_row,647623,647623,0,0,0.0
+ad_view,"device_id, event_ts",647623,647368,253,255,0.0394
+ad_view,"device_id, event_ts, status, placement",647623,647591,32,32,0.0049

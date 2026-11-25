@@ -1,0 +1,43 @@
+split,segment_type,segment_value,players,churners,churn_rate_pct
+train,overall,All Active Players,20025,4104,20.49
+train,platform,Android,12827,2596,20.24
+train,platform,iOS,7198,1508,20.95
+train,country_tier,1,6764,1454,21.5
+train,country_tier,2,5029,1062,21.12
+train,country_tier,3,4242,883,20.82
+train,country_tier,4,3990,705,17.67
+train,acquisition_channel,organic,8869,1782,20.09
+train,acquisition_channel,paid_social,7677,1648,21.47
+train,acquisition_channel,paid_video,3479,674,19.37
+train,install_age_bucket,0-7d (New),2791,124,4.44
+train,install_age_bucket,8-30d,5590,669,11.97
+train,install_age_bucket,31-90d,6516,1393,21.38
+train,install_age_bucket,91+d (Veteran),5128,1918,37.4
+val,overall,All Active Players,26886,5220,19.42
+val,platform,Android,18109,3395,18.75
+val,platform,iOS,8777,1825,20.79
+val,country_tier,1,7740,1782,23.02
+val,country_tier,2,5671,1208,21.3
+val,country_tier,3,5402,1041,19.27
+val,country_tier,4,8073,1189,14.73
+val,acquisition_channel,organic,10147,2140,21.09
+val,acquisition_channel,paid_social,8779,1968,22.42
+val,acquisition_channel,paid_video,7960,1112,13.97
+val,install_age_bucket,0-7d (New),4360,197,4.52
+val,install_age_bucket,8-30d,7902,912,11.54
+val,install_age_bucket,31-90d,9181,2080,22.66
+val,install_age_bucket,91+d (Veteran),5443,2031,37.31
+test,overall,All Active Players,38644,7238,18.73
+test,platform,Android,27616,4881,17.67
+test,platform,iOS,11028,2357,21.37
+test,country_tier,1,8765,2027,23.13
+test,country_tier,2,6566,1523,23.2
+test,country_tier,3,7106,1440,20.26
+test,country_tier,4,16207,2248,13.87
+test,acquisition_channel,organic,11715,2572,21.95
+test,acquisition_channel,paid_social,10074,2363,23.46
+test,acquisition_channel,paid_video,16855,2303,13.66
+test,install_age_bucket,0-7d (New),6367,284,4.46
+test,install_age_bucket,8-30d,12518,1479,11.81
+test,install_age_bucket,31-90d,12125,2684,22.14
+test,install_age_bucket,91+d (Veteran),7634,2791,36.56

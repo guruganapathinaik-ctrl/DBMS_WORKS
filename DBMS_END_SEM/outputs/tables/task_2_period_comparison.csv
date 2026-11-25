@@ -1,0 +1,4 @@
+period,start_date,end_date,num_days,total_active_player_days,unique_active_players,total_gross_revenue_usd,total_refund_usd,total_net_revenue_usd,gross_dedup_usd,net_dedup_usd,weighted_gross_arpdau_usd,weighted_net_arpdau_usd,weighted_gross_dedup_arpdau_usd,daily_avg_gross_arpdau_usd,daily_avg_net_arpdau_usd
+first_30d,2026-01-01,2026-01-30,30,82381.0,22999.0,29383.67,-456.76,28926.91,29188.9,28732.14,0.35668,0.351136,0.354316,0.358327,0.352962
+last_30d,2026-04-01,2026-04-30,30,282781.0,73756.0,84404.41,-1478.94,82925.47,83647.92,82188.97,0.29848,0.29325,0.295805,0.296283,0.291373
+pct_change_p1_to_p2,2026-01-01,2026-04-30,0,243.26,220.69,187.25,223.79,186.67,186.57,186.05,-16.32,-16.49,-16.51,-17.31,-17.45

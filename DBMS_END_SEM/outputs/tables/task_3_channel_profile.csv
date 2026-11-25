@@ -1,0 +1,4 @@
+acquisition_channel,total_players,share_of_players_pct,pre_2026_players,elig_30d_players,apr_censored_players,zero_activity_players,linked_orig_id_players,android_pct,ios_pct,tier1_pct,tier2_pct,tier3_pct,tier4_pct,all_window_gross_usd,all_window_refund_usd,all_window_net_usd
+paid_video,34036,42.39,2443.0,13030.0,18563.0,755.0,1385.0,81.35,18.65,8.15,6.26,14.5,71.09,56051.03,-742.47,55308.56
+organic,24554,30.58,7211.0,12948.0,4395.0,195.0,963.0,63.55,36.45,33.72,25.86,22.28,18.14,90702.2,-1413.1,89289.1
+paid_social,21705,27.03,6346.0,11511.0,3848.0,164.0,863.0,63.79,36.21,34.76,25.73,21.53,17.98,72680.79,-1119.15,71561.64

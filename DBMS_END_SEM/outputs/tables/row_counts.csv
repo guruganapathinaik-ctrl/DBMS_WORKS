@@ -1,0 +1,6 @@
+table_name,csv_filename,file_size_bytes,total_rows,unique_device_ids,null_device_ids,avg_rows_per_device
+player_profile,player_profile - player_profile.csv,4067006,80295,80295,0,1.0
+player_day,player_day - player_day.csv,21249206,667435,79181,0,8.43
+purchase,purchase - purchase.csv,982782,15426,11054,0,1.4
+currency_spend,currency_spend - currency_spend.csv,33343030,489892,73216,0,6.69
+ad_view,ad_view - ad_view.csv,43319839,647623,74042,0,8.75

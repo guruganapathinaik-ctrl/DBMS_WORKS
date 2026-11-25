@@ -1,0 +1,7 @@
+population,acquisition_channel,acquired_players,paying_players,payer_conversion_pct,total_gross_usd,total_refund_usd,total_net_usd,total_gross_dedup_usd,total_net_dedup_usd,arpu_gross_usd,arpu_net_usd,arpu_gross_dedup_usd,arppu_gross_payers_only,p50_all_usd,p90_all_usd,p99_all_usd,max_player_gross_usd,top_10pct_player_rev_share
+all_80295_full_window,organic,24554,4366.0,17.78,90702.2,-1413.1,89289.1,,,3.694,3.6364,,20.77,0.0,6.68,99.99,396.86,
+all_80295_full_window,paid_social,21705,3700.0,17.05,72680.79,-1119.15,71561.64,,,3.3486,3.297,,19.64,0.0,4.99,79.97,309.92,
+all_80295_full_window,paid_video,34036,2988.0,8.78,56051.03,-742.47,55308.56,,,1.6468,1.625,,18.76,0.0,0.0,49.99,323.93,
+clean_30d_cohort_jan_mar,organic,12948,1723.0,13.31,32331.47,-674.71,31656.76,31887.68,31212.97,2.497,2.4449,2.4627,18.76,0.0,4.99,56.03,219.94,96.95
+clean_30d_cohort_jan_mar,paid_social,11511,1514.0,13.15,25848.14,-340.82,25507.32,25516.32,25175.5,2.2455,2.2159,2.2167,17.07,0.0,4.99,49.99,201.97,97.07
+clean_30d_cohort_jan_mar,paid_video,13030,1154.0,8.86,20157.47,-189.82,19967.65,20089.58,19899.76,1.547,1.5324,1.5418,17.47,0.0,0.0,49.99,209.97,100.0

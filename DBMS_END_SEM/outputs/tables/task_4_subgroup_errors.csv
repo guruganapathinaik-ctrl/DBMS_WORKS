@@ -1,0 +1,16 @@
+subgroup_type,subgroup_value,n_players,actual_churn_pct,mean_pred_prob_pct,roc_auc,brier_score
+platform,Android,27616,17.67,19.65,0.7491,0.1306
+platform,iOS,11028,21.37,23.82,0.735,0.1515
+country_tier,1,8765,23.13,26.48,0.7187,0.1635
+country_tier,2,6566,23.2,25.99,0.724,0.1619
+country_tier,3,7106,20.26,22.77,0.7462,0.1443
+country_tier,4,16207,13.87,14.86,0.7465,0.1083
+acquisition_channel,organic,11715,21.95,24.87,0.7352,0.1546
+acquisition_channel,paid_social,10074,23.46,26.35,0.7129,0.1656
+acquisition_channel,paid_video,16855,13.66,14.75,0.7473,0.1067
+install_age_bucket,0-7d (New),6367,4.46,9.68,0.6774,0.0449
+install_age_bucket,8-30d,12518,11.81,12.14,0.6941,0.0993
+install_age_bucket,31-90d,12125,22.14,21.24,0.6647,0.1631
+install_age_bucket,91+d (Veteran),7634,36.56,43.78,0.6241,0.232
+is_payer_lifetime,0,33316,18.46,20.44,0.7524,0.1338
+is_payer_lifetime,1,5328,20.42,23.34,0.7077,0.1539

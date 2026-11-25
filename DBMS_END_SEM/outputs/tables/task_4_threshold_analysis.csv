@@ -1,0 +1,13 @@
+rule_type,rule_label,prob_cutoff,targeted_players,pct_of_active_base,true_churners_caught_tp,wasted_offers_fp,wasted_offer_pct,precision_pct,recall_pct,f1_score,lift_over_random
+top_k_pct,Top 5% Riskiest,0.5546,1933,5.0,931,1002,51.84,48.16,12.86,0.203,2.57
+top_k_pct,Top 10% Riskiest,0.4391,3865,10.0,1735,2130,55.11,44.89,23.97,0.3125,2.4
+top_k_pct,Top 20% Riskiest,0.3231,7729,20.0,3071,4658,60.27,39.73,42.43,0.4104,2.12
+top_k_pct,Top 30% Riskiest,0.2527,11593,30.0,4206,7387,63.72,36.28,58.11,0.4467,1.94
+top_k_pct,Top 50% Riskiest,0.1599,19322,50.0,5775,13547,70.11,29.89,79.79,0.4349,1.6
+prob_threshold,Prob >= 0.15,0.15,20433,52.87,5946,14487,70.9,29.1,82.15,0.4298,1.55
+prob_threshold,Prob >= 0.20,0.2,15445,39.97,5066,10379,67.2,32.8,69.99,0.4467,1.75
+prob_threshold,Prob >= 0.25,0.25,11755,30.42,4241,7514,63.92,36.08,58.59,0.4466,1.93
+prob_threshold,Prob >= 0.30,0.3,8821,22.83,3408,5413,61.36,38.64,47.08,0.4244,2.06
+prob_threshold,Prob >= 0.35,0.35,6601,17.08,2704,3897,59.04,40.96,37.36,0.3908,2.19
+prob_threshold,Prob >= 0.40,0.4,4898,12.67,2110,2788,56.92,43.08,29.15,0.3477,2.3
+prob_threshold,Prob >= 0.50,0.5,2654,6.87,1248,1406,52.98,47.02,17.24,0.2523,2.51

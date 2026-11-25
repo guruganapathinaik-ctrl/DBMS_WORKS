@@ -1,0 +1,31 @@
+# Raw player-level datasets & local DuckDB databases (Privacy & Size Exclusion)
+data/*.csv
+*.duckdb
+*.duckdb.wal
+outputs/telemetry.duckdb
+
+# Temporary files & caches
+.tmp/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environments & secrets
+.venv/
+venv/
+env/
+.env
+.env.*
+*.pem
+*.key
+
+# Generated submission archives & local machine config
+*.zip
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Automated non-Gamma PPTX draft (preserve only user's Gamma presentation if added)
+presentation/Mobile_Game_Analytics_Executive_Readout.pptx
